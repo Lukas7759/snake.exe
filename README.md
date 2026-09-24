@@ -1,5 +1,7 @@
 #Snake.exe
 
+you can play the game on thhis website: https://sites.google.com/view/x09drk-io/snake?authuser=0
+
 A compact browser Snake game built as a single HTML file. Pond Snake combines classic grid movement with escalating difficulty, collectible bonuses, cosmetic unlocks, and a custom gradient skin editor.
 
 ## Game Review
