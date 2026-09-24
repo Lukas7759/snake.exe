@@ -71,7 +71,7 @@ Google Sites works best with a publicly hosted page rather than a local `snake.h
 
 1. Publish this repository with GitHub Pages or another static web host.
 2. In Google Sites, choose **Insert** and then **Embed**.
-3. Select **By URL** and paste the public URL for `snake.html`.
+3. Select **By URL** and paste the public URL for `snake.html`, or run on web https://sites.google.com/view/x09drk-io/snake?authuser=0
 4. Resize the embed frame so the square game board and controls fit comfortably.
 
 The page is self-contained and does not require a build step. Browser storage is kept inside the embedded page, so scores and unlocked skins persist for each visitor in their own browser.
