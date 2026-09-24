@@ -1,4 +1,4 @@
-#Snake.exe
+## Snake.exe
 
 you can play the game on thhis website: https://sites.google.com/view/x09drk-io/snake?authuser=0
 
